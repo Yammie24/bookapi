@@ -272,15 +272,4 @@
     ],
     "content": "Nathaniel Hawthorne’s *The Scarlet Letter* is a classic novel that explores the themes of guilt, shame, and love. The novel is celebrated for its vivid portrayal of 17th-century Puritan society, its complex characters, and its exploration of the complexities of human relationships..."
   },
-  {
-    "id": 14,
-    "name": "The War of the Worlds",
-    "author": "H.G. Wells",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_War_of_the_Worlds.jpg",
-    "topics": [
-      {
-        "name": "Science Fiction",
-        "content": "The novel explores the theme of science fiction, particularly through its portrayal of an alien invasion of Earth. Wells's depiction of}
-      }
-  }
 ]

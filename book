@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "bookname": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "topics": ["Dystopia", "Politics", "Society"],
+    "content": "A dystopian novel about totalitarianism and surveillance...",
+    "isbn": "978-0451524935",
+    "pages": 328
+  },
+  {
+    "id": 2,
+    "bookname": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "topics": ["American Dream", "Jazz Age", "Social Class"],
+    "content": "A story of mysteriously wealthy Jay Gatsby and his love for Daisy Buchanan...",
+    "isbn": "978-0743273565",
+    "pages": 180
+  },
+  {
+    "id": 3,
+    "bookname": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "topics": ["Science Fiction", "Genetic Engineering", "Utopia"],
+    "content": "A futuristic society where humans are genetically bred and conditioned...",
+    "isbn": "978-0060850524",
+    "pages": 288
+  },
+  {
+    "id": 4,
+    "bookname": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "topics": ["Racial Injustice", "Morality", "Coming of Age"],
+    "content": "A story of racial inequality in the American South...",
+    "isbn": "978-0446310789",
+    "pages": 281
+  },
+  {
+    "id": 5,
+    "bookname": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "topics": ["Adolescence", "Identity", "Alienation"],
+    "content": "A teenager's experiences in New York City after being expelled from school...",
+    "isbn": "978-0316769488",
+    "pages": 277
+  }
+]

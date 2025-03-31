@@ -3,7 +3,7 @@
     "id": 1,
     "name": "1984",
     "author": "George Orwell",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/c/c3/1984first.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Dystopia",
@@ -24,7 +24,7 @@
     "id": 2,
     "name": "To Kill a Mockingbird",
     "author": "Harper Lee",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Racial Injustice",

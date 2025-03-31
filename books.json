@@ -5,7 +5,7 @@
     "author": "George Orwell",
     "year": 1949,
     "topics": ["Dystopia", "Politics", "Society"],
-    "content": "A dystopian novel about totalitarianism and surveillance...",
+    "content": "Set in a totalitarian future society, 1984 follows Winston Smith, a low-ranking member of the ruling Party in Oceania. Winston secretly rebels against the oppressive regime led by the enigmatic Big Brother, who surveils citizens through telescreens and manipulates historical records. As Winston begins a forbidden love affair with Julia and joins the clandestine resistance group 'The Brotherhood,' he grapples with psychological manipulation, Newspeak, and the infamous Room 101. The novel explores themes of government overreach, reality control, and the erosion of individual freedom.",
     "isbn": "978-0451524935",
     "pages": 328
   },
@@ -15,7 +15,7 @@
     "author": "F. Scott Fitzgerald",
     "year": 1925,
     "topics": ["American Dream", "Jazz Age", "Social Class"],
-    "content": "A story of mysteriously wealthy Jay Gatsby and his love for Daisy Buchanan...",
+    "content": "Narrated by Nick Carraway, this novel delves into the life of Jay Gatsby, a mysterious millionaire known for his extravagant parties on Long Island. Gatsby’s obsession with reuniting with his former lover, Daisy Buchanan, drives the story. Through lavish symbolism and tragic irony, Fitzgerald critiques the excesses of the Roaring Twenties and the hollow pursuit of the American Dream. The novel culminates in a devastating climax involving a hit-and-run accident, unrequited love, and Gatsby’s ultimate demise, exposing the moral decay beneath society’s glittering surface.",
     "isbn": "978-0743273565",
     "pages": 180
   },
@@ -25,7 +25,7 @@
     "author": "Aldous Huxley",
     "year": 1932,
     "topics": ["Science Fiction", "Genetic Engineering", "Utopia"],
-    "content": "A futuristic society where humans are genetically bred and conditioned...",
+    "content": "In a genetically engineered future society, humans are divided into castes (Alphas to Epsilons) and conditioned for predetermined roles. Bernard Marx, an Alpha psychologist, challenges the World State’s stability by questioning its use of soma (a happiness-inducing drug) and promiscuity. His discovery of John 'the Savage,' a man raised outside the system, sparks a clash between primal humanity and the sterile, emotionless utopia. Themes of individuality vs. conformity, consumerism, and the cost of artificial happiness dominate this chilling vision of the future.",
     "isbn": "978-0060850524",
     "pages": 288
   },
@@ -35,7 +35,7 @@
     "author": "Harper Lee",
     "year": 1960,
     "topics": ["Racial Injustice", "Morality", "Coming of Age"],
-    "content": "A story of racial inequality in the American South...",
+    "content": "Set in 1930s Alabama, this story follows young Scout Finch as her father, lawyer Atticus Finch, defends Tom Robinson, a Black man falsely accused of raping a white woman. Through Scout’s innocent eyes, the novel exposes the deep-seated racism of Maycomb County, juxtaposed with moments of humanity, such as Boo Radley’s secret kindness. The trial’s tragic outcome and the moral lessons Atticus imparts ('You never really understand a person until you consider things from his point of view') make this a timeless exploration of justice, empathy, and moral courage.",
     "isbn": "978-0446310789",
     "pages": 281
   },
@@ -45,7 +45,7 @@
     "author": "J.D. Salinger",
     "year": 1951,
     "topics": ["Adolescence", "Identity", "Alienation"],
-    "content": "A teenager's experiences in New York City after being expelled from school...",
+    "content": "Holden Caulfield, a disenchanted 16-year-old, narrates his experiences after being expelled from prep school. Wandering New York City, he critiques the 'phoniness' of adulthood while clinging to childhood innocence. His interactions with strangers, his younger sister Phoebe, and his fantasy of being 'the catcher in the rye' (saving children from falling off a cliff) reveal his struggle with grief, identity, and mental health. The novel’s raw, confessional style and themes of alienation resonate deeply with readers grappling with the transition to adulthood.",
     "isbn": "978-0316769488",
     "pages": 277
   }

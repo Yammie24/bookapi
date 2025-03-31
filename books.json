@@ -1,52 +1,65 @@
 [
   {
     "id": 1,
-    "bookname": "1984",
+    "name": "1984",
     "author": "George Orwell",
-    "year": 1949,
-    "topics": ["Dystopia", "Politics", "Society"],
-    "content": "Set in a totalitarian future society, 1984 follows Winston Smith, a low-ranking member of the ruling Party in Oceania. Winston secretly rebels against the oppressive regime led by the enigmatic Big Brother, who surveils citizens through telescreens and manipulates historical records. As Winston begins a forbidden love affair with Julia and joins the clandestine resistance group 'The Brotherhood,' he grapples with psychological manipulation, Newspeak, and the infamous Room 101. The novel explores themes of government overreach, reality control, and the erosion of individual freedom.",
-    "isbn": "978-0451524935",
-    "pages": 328
+    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/c/c3/1984first.jpg",
+    "topics": [
+      {
+        "name": "Dystopia",
+        "content": "Orwell’s *1984* paints a harrowing vision of a dystopian future where the totalitarian Party dominates every aspect of life in Oceania. Society is stripped of individuality, free thought, and privacy. Citizens are monitored 24/7 by telescreens and the Thought Police, while historical records are continuously rewritten to align with the Party’s propaganda..."
+      },
+      {
+        "name": "Totalitarianism",
+        "content": "The Party’s absolute control over Oceania exemplifies totalitarianism. Leaders enforce loyalty through fear, propaganda, and the elimination of dissent. Concepts like 'doublethink' (holding two contradictory beliefs simultaneously) and 'thoughtcrime' (illegal rebellious thoughts) are tools to suppress individuality..."
+      },
+      {
+        "name": "Surveillance",
+        "content": "Surveillance in *1984* is omnipresent and inescapable. Telescreens in every home and public space broadcast Party propaganda while spying on citizens. The Thought Police infiltrate daily life, punishing even subtle facial expressions that hint at dissent..."
+      }
+    ],
+    "content": "George Orwell’s *1984* is a seminal dystopian novel set in a grim future where the totalitarian Party governs Oceania with absolute control. Winston Smith, a low-ranking bureaucrat, secretly rebels against the regime by keeping a forbidden diary and pursuing a clandestine relationship with Julia, a fellow dissenter..."
   },
   {
     "id": 2,
-    "bookname": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "year": 1925,
-    "topics": ["American Dream", "Jazz Age", "Social Class"],
-    "content": "Narrated by Nick Carraway, this novel delves into the life of Jay Gatsby, a mysterious millionaire known for his extravagant parties on Long Island. Gatsby’s obsession with reuniting with his former lover, Daisy Buchanan, drives the story. Through lavish symbolism and tragic irony, Fitzgerald critiques the excesses of the Roaring Twenties and the hollow pursuit of the American Dream. The novel culminates in a devastating climax involving a hit-and-run accident, unrequited love, and Gatsby’s ultimate demise, exposing the moral decay beneath society’s glittering surface.",
-    "isbn": "978-0743273565",
-    "pages": 180
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+    "topics": [
+      {
+        "name": "Racial Injustice",
+        "content": "Set in 1930s Alabama, *To Kill a Mockingbird* confronts systemic racism through the trial of Tom Robinson, a Black man falsely accused of raping Mayella Ewell. Atticus Finch’s defense of Tom exposes the jury’s ingrained prejudice..."
+      },
+      {
+        "name": "Morality",
+        "content": "Atticus Finch emerges as the moral backbone of the story, teaching Scout and Jem that courage means 'doing what’s right even when you know you’ll lose.' His defense of Tom Robinson, despite threats from the townspeople, underscores his commitment to justice..."
+      },
+      {
+        "name": "Childhood",
+        "content": "Scout’s narration captures the loss of innocence as she navigates a world rife with racism and cruelty. Early scenes of carefree play with Jem and Dill contrast sharply with the trial’s brutality and Bob Ewell’s vengeful attack..."
+      }
+    ],
+    "content": "Harper Lee’s *To Kill a Mockingbird* is a poignant exploration of racial injustice and moral growth in the Depression-era South. Through the eyes of Scout Finch, a precocious six-year-old, the novel chronicles her father Atticus’s defense of Tom Robinson, a Black man falsely accused of rape..."
   },
   {
     "id": 3,
-    "bookname": "Brave New World",
-    "author": "Aldous Huxley",
-    "year": 1932,
-    "topics": ["Science Fiction", "Genetic Engineering", "Utopia"],
-    "content": "In a genetically engineered future society, humans are divided into castes (Alphas to Epsilons) and conditioned for predetermined roles. Bernard Marx, an Alpha psychologist, challenges the World State’s stability by questioning its use of soma (a happiness-inducing drug) and promiscuity. His discovery of John 'the Savage,' a man raised outside the system, sparks a clash between primal humanity and the sterile, emotionless utopia. Themes of individuality vs. conformity, consumerism, and the cost of artificial happiness dominate this chilling vision of the future.",
-    "isbn": "978-0060850524",
-    "pages": 288
-  },
-  {
-    "id": 4,
-    "bookname": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "year": 1960,
-    "topics": ["Racial Injustice", "Morality", "Coming of Age"],
-    "content": "Set in 1930s Alabama, this story follows young Scout Finch as her father, lawyer Atticus Finch, defends Tom Robinson, a Black man falsely accused of raping a white woman. Through Scout’s innocent eyes, the novel exposes the deep-seated racism of Maycomb County, juxtaposed with moments of humanity, such as Boo Radley’s secret kindness. The trial’s tragic outcome and the moral lessons Atticus imparts ('You never really understand a person until you consider things from his point of view') make this a timeless exploration of justice, empathy, and moral courage.",
-    "isbn": "978-0446310789",
-    "pages": 281
-  },
-  {
-    "id": 5,
-    "bookname": "The Catcher in the Rye",
-    "author": "J.D. Salinger",
-    "year": 1951,
-    "topics": ["Adolescence", "Identity", "Alienation"],
-    "content": "Holden Caulfield, a disenchanted 16-year-old, narrates his experiences after being expelled from prep school. Wandering New York City, he critiques the 'phoniness' of adulthood while clinging to childhood innocence. His interactions with strangers, his younger sister Phoebe, and his fantasy of being 'the catcher in the rye' (saving children from falling off a cliff) reveal his struggle with grief, identity, and mental health. The novel’s raw, confessional style and themes of alienation resonate deeply with readers grappling with the transition to adulthood.",
-    "isbn": "978-0316769488",
-    "pages": 277
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "book_cover": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg",
+    "topics": [
+      {
+        "name": "Adventure",
+        "content": "Bilbo Baggins’ journey from the comfort of the Shire to the treacherous Lonely Mountain epitomizes the hero’s adventure. Accompanied by Gandalf the wizard and 13 dwarves led by Thorin Oakenshield, Bilbo confronts trolls, goblins, giant spiders, and the dragon Smaug..."
+      },
+      {
+        "name": "Fantasy",
+        "content": "Tolkien’s Middle-earth is a richly imagined fantasy world teeming with magical creatures and ancient lore. From the Elven kingdom of Rivendell to the dark depths of Mirkwood Forest, the novel introduces iconic elements like the One Ring..."
+      },
+      {
+        "name": "Heroism",
+        "content": "Bilbo’s heroism defies traditional warrior tropes. Unlike Thorin, who seeks glory and treasure, Bilbo relies on wit, compassion, and luck. He saves the dwarves from spiders using Sting (his sword) and trickery..."
+      }
+    ],
+    "content": "J.R.R. Tolkien’s *The Hobbit* is a whimsical yet epic fantasy chronicling Bilbo Baggins’ unexpected journey to reclaim the dwarves’ homeland from the dragon Smaug. Reluctantly recruited by Gandalf, Bilbo leaves his cozy hobbit hole to join Thorin Oakenshield’s quest for the Lonely Mountain..."
   }
 ]

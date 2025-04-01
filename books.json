@@ -1,309 +1,275 @@
 [
-  {
-    "id": 1,
-    "name": "1984",
-    "author": "George Orwell",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Dystopia",
-        "content": "Orwell’s *1984* paints a harrowing vision of a dystopian future where the totalitarian Party dominates every aspect of life in Oceania. Society is stripped of individuality, free thought, and privacy. Citizens are monitored 24/7 by telescreens and the Thought Police, while historical records are continuously rewritten to align with the Party’s propaganda..."
-      },
-      {
-        "name": "Totalitarianism",
-        "content": "The Party’s absolute control over Oceania exemplifies totalitarianism. Leaders enforce loyalty through fear, propaganda, and the elimination of dissent. Concepts like 'doublethink' (holding two contradictory beliefs simultaneously) and 'thoughtcrime' (illegal rebellious thoughts) are tools to suppress individuality..."
-      },
-      {
-        "name": "Surveillance",
-        "content": "Surveillance in *1984* is omnipresent and inescapable. Telescreens in every home and public space broadcast Party propaganda while spying on citizens. The Thought Police infiltrate daily life, punishing even subtle facial expressions that hint at dissent..."
-      }
-    ],
-    "content": "George Orwell’s *1984* is a seminal dystopian novel set in a grim future where the totalitarian Party governs Oceania with absolute control. Winston Smith, a low-ranking bureaucrat, secretly rebels against the regime by keeping a forbidden diary and pursuing a clandestine relationship with Julia, a fellow dissenter..."
-  },
-  {
-    "id": 2,
-    "name": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Racial Injustice",
-        "content": "Set in 1930s Alabama, *To Kill a Mockingbird* confronts systemic racism through the trial of Tom Robinson, a Black man falsely accused of raping Mayella Ewell. Atticus Finch’s defense of Tom exposes the jury’s ingrained prejudice..."
-      },
-      {
-        "name": "Morality",
-        "content": "Atticus Finch emerges as the moral backbone of the story, teaching Scout and Jem that courage means 'doing what’s right even when you know you’ll lose.' His defense of Tom Robinson, despite threats from the townspeople, underscores his commitment to justice..."
-      },
-      {
-        "name": "Childhood",
-        "content": "Scout’s narration captures the loss of innocence as she navigates a world rife with racism and cruelty. Early scenes of carefree play with Jem and Dill contrast sharply with the trial’s brutality and Bob Ewell’s vengeful attack..."
-      }
-    ],
-    "content": "Harper Lee’s *To Kill a Mockingbird* is a poignant exploration of racial injustice and moral growth in the Depression-era South. Through the eyes of Scout Finch, a precocious six-year-old, the novel chronicles her father Atticus’s defense of Tom Robinson, a Black man falsely accused of rape..."
-  },
-  {
-    "id": 3,
-    "name": "The Hobbit",
-    "author": "J.R.R. Tolkien",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "The Whispering Walls of Hollowbrook House",
-        "content": "The town of Hollowbrook had always been a place of uneasy silence. Tucked between jagged pines and a fog-cloaked river, its streets were lined with leaning cottages and rusted lampposts that flickered like dying fireflies. But none of its decaying structures were as infamous as Hollowbrook House.
-
-Built in 1872 by reclusive architect Silas Hollowbrook, the mansion was a labyrinth of crooked hallways, stained-glass windows warped into leering faces, and doors that opened to brick walls. Locals claimed the Hollowbrook family dabbled in occult rituals, their obsession with immortality twisting the house into something alive—and hungry. After Silas’s wife and children vanished, he sealed himself inside, screaming for years about “voices in the mortar” until his corpse was found inside a boarded-up chimney, his fingers reduced to bone from scratching.
-
-A century later, the house stood derelict, its roof sagging like a broken spine. Yet every autumn, when the air turned sharp and the moon hung low, faint whispers slithered from its cracks.
-
-Clara hadn’t planned on returning to Hollowbrook. But her father’s sudden death—a heart attack mid-conversation, as if the shadows had yanked his soul mid-sentence—left her with a key, a deed, and a note: “Burn it. Before it speaks to you.”
-
-She arrived at dusk, the house looming like a gargoyle against a blood-orange sky. Her flashlight trembled in her hand as she stepped inside. The air was thick with the smell of damp earth and rot, and the floorboards groaned like wounded animals.
-
-Then she heard it.
-
-'Clara…'
-
-Her name, hissed from nowhere and everywhere. The walls hummed, vibrations crawling up her spine. She told herself it was the wind. But as she climbed the staircase, the whispers grew louder, overlapping in a cacophony of pleas and laughter.
-
-'Stay with us…'
-'We’ve been so lonely…'
-'You’ll never grieve again…'
-
-In the nursery, she found the source. A cracked mirror hung above a rusted crib, its surface smeared with black mold. The whispers sharpened, burrowing into her skull. Reflections moved where they shouldn’t: shadows pooling into human shapes, a pale hand pressing against the glass from inside.
-
-Her father’s voice suddenly rang out, clear and desperate: “Clara, run!”
-
-But it was too late. The mold surged, tendrils snaking around her ankles. The mirror’s surface rippled, and Clara’s own reflection grinned back at her—eyes hollow, lips peeling into a rictus. Behind it stood a woman in a tattered gown, her face Clara’s mother, dead for a decade.
-
-“We’ve missed you,” the reflection crooned, as the walls began to bleed black sludge. “Don’t you want to see Dad again?”
-
-Clara tried to scream, but the house drank the sound. The whispers swelled, joyful now, as the mirror swallowed her whole.
-
-At dawn, Hollowbrook House stood silent once more. The deed in Clara’s car vanished, the key rusted to dust. Locals swore the mansion’s windows gleamed a little brighter, its bricks a shade redder, as if fed by fresh blood.
-
-And in the town below, new whispers began—of a figure glimpsed in the attic, her face pressed to the glass, screaming soundlessly. Waiting for the next heir to Silas’s curse… or the next soul to mistake sorrow for salvation.
-
-Fear lives in the echoes of what we refuse to let go."
-      },
-      {
-        "name": "Fantasy",
-        "content": "Tolkien’s Middle-earth is a richly imagined fantasy world teeming with magical creatures and ancient lore. From the Elven kingdom of Rivendell to the dark depths of Mirkwood Forest, the novel introduces iconic elements like the One Ring..."
-      },
-      {
-        "name": "Heroism",
-        "content": "Bilbo’s heroism defies traditional warrior tropes. Unlike Thorin, who seeks glory and treasure, Bilbo relies on wit, compassion, and luck. He saves the dwarves from spiders using Sting (his sword) and trickery..."
-      }
-    ],
-    "content": "J.R.R. Tolkien’s *The Hobbit* is a whimsical yet epic fantasy chronicling Bilbo Baggins’ unexpected journey to reclaim the dwarves’ homeland from the dragon Smaug. Reluctantly recruited by Gandalf, Bilbo leaves his cozy hobbit hole to join Thorin Oakenshield’s quest for the Lonely Mountain..."
-  },
-  {
-    "id": 4,
-    "name": "The Lord of the Rings",
-    "author": "J.R.R. Tolkien",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Friendship",
-        "content": "The Fellowship of the Ring embodies the power of friendship as Frodo, Sam, Aragorn, Legolas, Gimli, and Boromir embark on a perilous journey to destroy the One Ring..."
-      },
-      {
-        "name": "Sacrifice",
-        "content": "Throughout the series, characters make immense sacrifices for the greater good. Frodo’s willingness to bear the Ring to Mordor, Sam’s loyalty to Frodo, and Aragorn’s acceptance of his destiny as King Elessar exemplify the noble spirit of the Free Peoples of Middle-earth..."
-      },
-      {
-        "name": "War",
-        "content": "The Lord of the Rings depicts the devastating consequences of war as the armies of Rohan, Gondor, and Mordor clash in a struggle for dominance. The Siege of Minas Tirith, the Battle of Helm’s Deep, and the Battle of the Pelennor Fields showcase the horrors of war..."
-      }
-    ],
-    "content": "J.R.R. Tolkien’s *The Lord of the Rings* is a high fantasy epic that follows the quest to destroy the One Ring and save Middle-earth from the darkness of Sauron’s rule. The series is renowned for its richly detailed world-building, complex characters, and epic scope..."
-  },
-  {
-    "id": 5,
-    "name": "Pride and Prejudice",
-    "author": "Jane Austen",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Love",
-        "content": "The novel explores the complexities of love through the relationships between Elizabeth Bennet and Mr. Darcy, as well as Jane Bennet and Mr. Bingley. Austen pokes fun at the societal pressures that influence the pursuit of love and marriage..."
-      },
-      {
-        "name": "Social Class",
-        "content": "The novel satirizes the social class system of 19th-century England, highlighting the limitations and prejudices faced by women, particularly those from lower socioeconomic backgrounds. The Bennet family’s struggles to secure suitable marriages for their daughters illustrate the financial and social pressures of the time..."
-      },
-      {
-        "name": "Personal Growth",
-        "content": "Throughout the novel, Elizabeth and Darcy undergo significant personal growth, learning to overcome their initial impressions and prejudices. Their journey towards self-awareness and maturity is a hallmark of Austen’s writing..."
-      }
-    ],
-    "content": "Jane Austen’s *Pride and Prejudice* is a timeless romance that follows the lives of the Bennet sisters as they navigate love, marriage, and social expectations in 19th-century England. The novel is celebrated for its witty dialogue, strong female characters, and insightful commentary on the social conventions of the time..."
-  },
-  {
-    "id": 6,
-    "name": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "The American Dream",
-        "content": "The novel critiques the idea of the American Dream, which is often associated with wealth, status, and material possessions. Jay Gatsby's pursuit of Daisy Buchanan represents the elusive and ultimately unattainable nature of this dream..."
-      },
-      {
-        "name": "Love and Longing",
-        "content": "The novel explores the complexities of love and longing, particularly through the characters of Gatsby and Daisy. Their doomed love affair serves as a commentary on the social and economic constraints of the time..."
-      },
-      {
-        "name": "Social Commentary",
-        "content": "The novel offers a scathing critique of the excesses and superficiality of the wealthy elite in the 1920s. Fitzgerald's portrayal of the corrupt and morally bankrupt world of East Egg and West Egg serves as a commentary on the darker aspects of the American experience..."
-      }
-    ],
-    "content": "F. Scott Fitzgerald’s *The Great Gatsby* is a classic novel set in the roaring twenties, exploring themes of love, greed, and the American Dream. The novel is renowned for its poetic prose, complex characters, and its commentary on the social and economic issues of the time..."
-  },
-  {
-    "id": 7,
-    "name": "The Catcher in the Rye",
-    "author": "J.D. Salinger",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Adolescence",
-        "content": "The novel explores the challenges and struggles of adolescence, particularly through the eyes of the protagonist, Holden Caulfield. Salinger's portrayal of Holden's rebellious and angst-ridden nature serves as a commentary on the difficulties of growing up..."
-      },
-      {
-        "name": "Alienation",
-        "content": "The novel examines the theme of alienation, as Holden struggles to find his place in the world and connect with others. His experiences at Pencey Prep and his relationships with his family and peers serve as a commentary on the isolating effects of modern society..."
-      },
-      {
-        "name": "Rebellion",
-        "content": "The novel portrays Holden's rebellion against the phoniness and superficiality of the adult world. His desire to preserve childhood innocence and authenticity serves as a commentary on the tensions between individuality and conformity..."
-      }
-    ],
-    "content": "J.D. Salinger’s *The Catcher in the Rye* is a coming-of-age novel that follows the story of Holden Caulfield, a disillusioned teenager struggling to find his place in the world. The novel is celebrated for its relatable protagonist, witty dialogue, and its exploration of adolescent angst and rebellion..."
-  },
-  {
-    "id": 8,
-    "name": "The Adventures of Huckleberry Finn",
-    "author": "Mark Twain",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Racism",
-        "content": "The novel explores the theme of racism, particularly through the relationship between Huck and Jim, a runaway slave. Twain's portrayal of the cruelty and injustice faced by Jim serves as a commentary on the institution of slavery and the societal attitudes of the time..."
-      },
-      {
-        "name": "Morality",
-        "content": "The novel examines the theme of morality, as Huck grapples with the moral implications of helping Jim escape from slavery. His decision to aid Jim, despite the societal norms and expectations, serves as a commentary on the importance of personal conscience and empathy..."
-      },
-      {
-        "name": "Adventure",
-        "content": "The novel is an epic adventure that follows Huck and Jim as they travel down the Mississippi River, encountering various characters and challenges along the way. Twain's portrayal of the American frontier serves as a commentary on the country's history, culture, and values..."
-      }
-    ],
-    "content": "Mark Twain’s *The Adventures of Huckleberry Finn* is a classic American novel that follows the story of Huck Finn, a young boy who runs away from home and embarks on a journey down the Mississippi River with a runaway slave named Jim. The novel is renowned for its vivid portrayal of life in the pre-Civil War South, its exploration of complex social issues, and its memorable characters..."
-  },
-  {
-    "id": 9,
-    "name": "The Picture of Dorian Gray",
-    "author": "Oscar Wilde",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Beauty",
-        "content": "The novel explores the theme of beauty, particularly through the character of Dorian Gray, who sells his soul for eternal youth and beauty. Wilde's portrayal of Dorian's obsessive pursuit of beauty and hedonism serves as a commentary on the societal values of the time..."
-      },
-      {
-        "name": "Morality",
-        "content": "The novel examines the theme of morality, as Dorian's actions become increasingly corrupt and depraved. His descent into madness and despair serves as a commentary on the dangers of unchecked ego and the importance of conscience and self-control..."
-      },
-      {
-        "name": "Art",
-    "content": "The novel explores the theme of art, particularly through the character of Basil Hallward, who becomes infatuated with Dorian's beauty. Wilde's portrayal of the relationship between art and reality serves as a commentary on the role of the artist and the nature of creativity..."
-      }
-    ],
-    "content": "Oscar Wilde’s *The Picture of Dorian Gray* is a philosophical novel that explores the themes of beauty, morality, and the human condition. The novel is celebrated for its witty dialogue, complex characters, and its commentary on the societal values and artistic movements of the time..."
-  },
-  {
-    "id": 10,
-    "name": "Wuthering Heights",
-    "author": "Emily Bronte",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Love",
-        "content": "The novel explores the theme of love, particularly through the tumultuous and often destructive relationship between Catherine and Heathcliff. Bronte's portrayal of their all-consuming passion serves as a commentary on the power of love to both unite and destroy..."
-      },
-      {
-        "name": "Revenge",
-        "content": "The novel examines the theme of revenge, as Heathcliff seeks to punish those who have wronged him. His actions, however, ultimately lead to his own downfall, serving as a commentary on the destructive nature of revenge and the importance of forgiveness..."
-      },
-      {
-        "name": "Nature",
-        "content": "The novel explores the theme of nature, particularly through the setting of the Yorkshire moors. Bronte's portrayal of the vast, wild, and often unforgiving landscape serves as a commentary on the relationship between humans and the natural world..."
-      }
-    ],
-    "content": "Emily Bronte’s *Wuthering Heights* is a classic romance novel that explores the themes of love, revenge, and the human condition. The novel is celebrated for its vivid portrayal of the Yorkshire moors, its complex characters, and its exploration of the complexities of human relationships..."
-  },
-  {
-    "id": 11,
-    "name": "The Count of Monte Cristo",
-    "author": "Alexandre Dumas",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Betrayal",
-        "content": "The novel explores the theme of betrayal, particularly through the character of Edmond Dantès, who is wrongly accused and imprisoned. Dumas's portrayal of Dantès's subsequent quest for revenge serves as a commentary on the destructive nature of betrayal and the importance of justice..."
-      },
-      {
-        "name": "Redemption",
-        "content": "The novel examines the theme of redemption, as Dantès seeks to clear his name and punish those who have wronged him. His journey, however, ultimately leads to a deeper understanding of the importance of forgiveness and the need for personal redemption..."
-      },
-      {
-        "name": "Love",
-        "content": "The novel explores the theme of love, particularly through the relationships between Dantès and his beloved Mercédès, as well as the complex and often doomed love affairs of the other characters. Dumas's portrayal of the power of love to both unite and destroy serves as a commentary on the human condition..."
-      }
-    ],
-    "content": "Alexandre Dumas’s *The Count of Monte Cristo* is a classic adventure novel that explores the themes of betrayal, redemption, and love. The novel is celebrated for its complex characters, its vivid portrayal of 19th-century France, and its exploration of the complexities of human relationships..."
-  },
-  {
-    "id": 12,
-    "name": "Moby-Dick",
-    "author": "Herman Melville",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Obsession",
-        "content": "The novel explores the theme of obsession, particularly through the character of Captain Ahab, who becomes consumed by his quest to hunt down the white whale Moby-Dick. Melville's portrayal of Ahab's monomaniacal pursuit serves as a commentary on the dangers of unchecked ambition and the importance of balance and moderation..."
-      },
-      {
-        "name": "Man vs. Nature",
-        "content": "The novel examines the theme of man vs. nature, as the crew of the Pequod battles against the ferocious and elusive Moby-Dick. Melville's portrayal of the struggle between humans and the natural world serves as a commentary on the relationship between humans and the environment..."
-      },
-      {
-        "name": "Friendship",
-        "content": "The novel explores the theme of friendship, particularly through the relationships between Ishmael and Queequeg, as well as the bonds between the crew members of the Pequod. Melville's portrayal of the power of friendship to both unite and divide serves as a commentary on the importance of human connection and loyalty..."
-      }
-    ],
-    "content": "Herman Melville’s *Moby-Dick* is a classic adventure novel that explores the themes of obsession, man vs. nature, and friendship. The novel is celebrated for its poetic prose, its complex characters, and its exploration of the complexities of human relationships and the natural world..."
-  },
-  {
-    "id": 13,
-    "name": "The Scarlet Letter",
-    "author": "Nathaniel Hawthorne",
-    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
-    "topics": [
-      {
-        "name": "Guilt",
-        "content": "The novel explores the theme of guilt..."
-      },
-      {
-        "name": "Shame",
-        "content": "The novel examines the theme of shame..."
-      },
-      {
-        "name": "Love",
-        "content": "The novel explores the theme of love..."
-      }
-    ],
-    "content": "Nathaniel Hawthorne’s *The Scarlet Letter* is a classic novel..."
-  }
+    {
+        "id": 1,
+        "name": "1984",
+        "author": "George Orwell",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Dystopia",
+                "content": "Orwell’s *1984* paints a harrowing vision of a dystopian future where the totalitarian Party dominates every aspect of life in Oceania. Society is stripped of individuality, free thought, and privacy. Citizens are monitored 24/7 by telescreens and the Thought Police, while historical records are continuously rewritten to align with the Party’s propaganda..."
+            },
+            {
+                "name": "Totalitarianism",
+                "content": "The Party’s absolute control over Oceania exemplifies totalitarianism. Leaders enforce loyalty through fear, propaganda, and the elimination of dissent. Concepts like 'doublethink' (holding two contradictory beliefs simultaneously) and 'thoughtcrime' (illegal rebellious thoughts) are tools to suppress individuality..."
+            },
+            {
+                "name": "Surveillance",
+                "content": "Surveillance in *1984* is omnipresent and inescapable. Telescreens in every home and public space broadcast Party propaganda while spying on citizens. The Thought Police infiltrate daily life, punishing even subtle facial expressions that hint at dissent..."
+            }
+        ],
+        "content": "George Orwell’s *1984* is a seminal dystopian novel set in a grim future where the totalitarian Party governs Oceania with absolute control. Winston Smith, a low-ranking bureaucrat, secretly rebels against the regime by keeping a forbidden diary and pursuing a clandestine relationship with Julia, a fellow dissenter..."
+    },
+    {
+        "id": 2,
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Racial Injustice",
+                "content": "Set in 1930s Alabama, *To Kill a Mockingbird* confronts systemic racism through the trial of Tom Robinson, a Black man falsely accused of raping Mayella Ewell. Atticus Finch’s defense of Tom exposes the jury’s ingrained prejudice..."
+            },
+            {
+                "name": "Morality",
+                "content": "Atticus Finch emerges as the moral backbone of the story, teaching Scout and Jem that courage means 'doing what’s right even when you know you’ll lose.' His defense of Tom Robinson, despite threats from the townspeople, underscores his commitment to justice..."
+            },
+            {
+                "name": "Childhood",
+                "content": "Scout’s narration captures the loss of innocence as she navigates a world rife with racism and cruelty. Early scenes of carefree play with Jem and Dill contrast sharply with the trial’s brutality and Bob Ewell’s vengeful attack..."
+            }
+        ],
+        "content": "Harper Lee’s *To Kill a Mockingbird* is a poignant exploration of racial injustice and moral growth in the Depression-era South. Through the eyes of Scout Finch, a precocious six-year-old, the novel chronicles her father Atticus’s defense of Tom Robinson, a Black man falsely accused of rape..."
+    },
+    {
+        "id": 3,
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "The Whispering Walls of Hollowbrook House",
+                "content": "The town of Hollowbrook had always been a place of uneasy silence. Tucked between jagged pines and a fog-cloaked river, its streets were lined with leaning cottages and rusted lampposts that flickered like dying fireflies. But none of its decaying structures were as infamous as Hollowbrook House. Built in 1872 by reclusive architect Silas Hollowbrook, the mansion was a labyrinth of crooked hallways, stained-glass windows warped into leering faces, and doors that opened to brick walls. Locals claimed the Hollowbrook family dabbled in occult rituals, their obsession with immortality twisting the house into something alive—and hungry. After Silas’s wife and children vanished, he sealed himself inside, screaming for years about “voices in the mortar” until his corpse was found inside a boarded-up chimney, his fingers reduced to bone from scratching.A century later, the house stood derelict, its roof sagging like a broken spine. Yet every autumn, when the air turned sharp and the moon hung low, faint whispers slithered from its cracks.Clara hadn’t planned on returning to Hollowbrook. But her father’s sudden death—a heart attack mid-conversation, as if the shadows had yanked his soul mid-sentence—left her with a key, a deed, and a note: “Burn it. Before it speaks to you.”She arrived at dusk, the house looming like a gargoyle against a blood-orange sky. Her flashlight trembled in her hand as she stepped inside. The air was thick with the smell of damp earth and rot, and the floorboards groaned like wounded animals.Then she heard it.'Clara…'Her name, hissed from nowhere and everywhere. The walls hummed, vibrations crawling up her spine. She told herself it was the wind. But as she climbed the staircase, the whispers grew louder, overlapping in a cacophony of pleas and laughter.'Stay with us…''We’ve been so lonely…''You’ll never grieve again…'In the nursery, she found the source. A cracked mirror hung above a rusted crib, its surface smeared with black mold. The whispers sharpened, burrowing into her skull. Reflections moved where they shouldn’t: shadows pooling into human shapes, a pale hand pressing against the glass from inside.Her father’s voice suddenly rang out, clear and desperate: “Clara, run!”But it was too late. The mold surged, tendrils snaking around her ankles. The mirror’s surface rippled, and Clara’s own reflection grinned back at her—eyes hollow, lips peeling into a rictus. Behind it stood a woman in a tattered gown, her face Clara’s mother, dead for a decade.'We’ve missed you,” the reflection crooned, as the walls began to bleed black sludge. “Don’t you want to see Dad again?'Clara tried to scream, but the house drank the sound. The whispers swelled, joyful now, as the mirror swallowed her whole.At dawn, Hollowbrook House stood silent once more. The deed in Clara’s car vanished, the key rusted to dust. Locals swore the mansion’s windows gleamed a little brighter, its bricks a shade redder, as if fed by fresh blood.And in the town below, new whispers began—of a figure glimpsed in the attic, her face pressed to the glass, screaming soundlessly. Waiting for the next heir to Silas’s curse… or the next soul to mistake sorrow for salvation.Fear lives in the echoes of what we refuse to let go."
+            },
+            {
+                "name": "Fantasy",
+                "content": "Tolkien’s Middle-earth is a richly imagined fantasy world teeming with magical creatures and ancient lore. From the Elven kingdom of Rivendell to the dark depths of Mirkwood Forest, the novel introduces iconic elements like the One Ring..."
+            },
+            {
+                "name": "Heroism",
+                "content": "Bilbo’s heroism defies traditional warrior tropes. Unlike Thorin, who seeks glory and treasure, Bilbo relies on wit, compassion, and luck. He saves the dwarves from spiders using Sting (his sword) and trickery..."
+            }
+        ],
+        "content": "J.R.R. Tolkien’s *The Hobbit* is a whimsical yet epic fantasy chronicling Bilbo Baggins’ unexpected journey to reclaim the dwarves’ homeland from the dragon Smaug. Reluctantly recruited by Gandalf, Bilbo leaves his cozy hobbit hole to join Thorin Oakenshield’s quest for the Lonely Mountain..."
+    },
+    {
+        "id": 4,
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Friendship",
+                "content": "The Fellowship of the Ring embodies the power of friendship as Frodo, Sam, Aragorn, Legolas, Gimli, and Boromir embark on a perilous journey to destroy the One Ring..."
+            },
+            {
+                "name": "Sacrifice",
+                "content": "Throughout the series, characters make immense sacrifices for the greater good. Frodo’s willingness to bear the Ring to Mordor, Sam’s loyalty to Frodo, and Aragorn’s acceptance of his destiny as King Elessar exemplify the noble spirit of the Free Peoples of Middle-earth..."
+            },
+            {
+                "name": "War",
+                "content": "The Lord of the Rings depicts the devastating consequences of war as the armies of Rohan, Gondor, and Mordor clash in a struggle for dominance. The Siege of Minas Tirith, the Battle of Helm’s Deep, and the Battle of the Pelennor Fields showcase the horrors of war..."
+            }
+        ],
+        "content": "J.R.R. Tolkien’s *The Lord of the Rings* is a high fantasy epic that follows the quest to destroy the One Ring and save Middle-earth from the darkness of Sauron’s rule. The series is renowned for its richly detailed world-building, complex characters, and epic scope..."
+    },
+    {
+        "id": 5,
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Love",
+                "content": "The novel explores the complexities of love through the relationships between Elizabeth Bennet and Mr. Darcy, as well as Jane Bennet and Mr. Bingley. Austen pokes fun at the societal pressures that influence the pursuit of love and marriage..."
+            },
+            {
+                "name": "Social Class",
+                "content": "The novel satirizes the social class system of 19th-century England, highlighting the limitations and prejudices faced by women, particularly those from lower socioeconomic backgrounds. The Bennet family’s struggles to secure suitable marriages for their daughters illustrate the financial and social pressures of the time..."
+            },
+            {
+                "name": "Personal Growth",
+                "content": "Throughout the novel, Elizabeth and Darcy undergo significant personal growth, learning to overcome their initial impressions and prejudices. Their journey towards self-awareness and maturity is a hallmark of Austen’s writing..."
+            }
+        ],
+        "content": "Jane Austen’s *Pride and Prejudice* is a timeless romance that follows the lives of the Bennet sisters as they navigate love, marriage, and social expectations in 19th-century England. The novel is celebrated for its witty dialogue, strong female characters, and insightful commentary on the social conventions of the time..."
+    },
+    {
+        "id": 6,
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "The American Dream",
+                "content": "The novel critiques the idea of the American Dream, which is often associated with wealth, status, and material possessions. Jay Gatsby's pursuit of Daisy Buchanan represents the elusive and ultimately unattainable nature of this dream..."
+            },
+            {
+                "name": "Love and Longing",
+                "content": "The novel explores the complexities of love and longing, particularly through the characters of Gatsby and Daisy. Their doomed love affair serves as a commentary on the social and economic constraints of the time..."
+            },
+            {
+                "name": "Social Commentary",
+                "content": "The novel offers a scathing critique of the excesses and superficiality of the wealthy elite in the 1920s. Fitzgerald's portrayal of the corrupt and morally bankrupt world of East Egg and West Egg serves as a commentary on the darker aspects of the American experience..."
+            }
+        ],
+        "content": "F. Scott Fitzgerald’s *The Great Gatsby* is a classic novel set in the roaring twenties, exploring themes of love, greed, and the American Dream. The novel is renowned for its poetic prose, complex characters, and its commentary on the social and economic issues of the time..."
+    },
+    {
+        "id": 7,
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Adolescence",
+                "content": "The novel explores the challenges and struggles of adolescence, particularly through the eyes of the protagonist, Holden Caulfield. Salinger's portrayal of Holden's rebellious and angst-ridden nature serves as a commentary on the difficulties of growing up..."
+            },
+            {
+                "name": "Alienation",
+                "content": "The novel examines the theme of alienation, as Holden struggles to find his place in the world and connect with others. His experiences at Pencey Prep and his relationships with his family and peers serve as a commentary on the isolating effects of modern society..."
+            },
+            {
+                "name": "Rebellion",
+                "content": "The novel portrays Holden's rebellion against the phoniness and superficiality of the adult world. His desire to preserve childhood innocence and authenticity serves as a commentary on the tensions between individuality and conformity..."
+            }
+        ],
+        "content": "J.D. Salinger’s *The Catcher in the Rye* is a coming-of-age novel that follows the story of Holden Caulfield, a disillusioned teenager struggling to find his place in the world. The novel is celebrated for its relatable protagonist, witty dialogue, and its exploration of adolescent angst and rebellion..."
+    },
+    {
+        "id": 8,
+        "name": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Racism",
+                "content": "The novel explores the theme of racism, particularly through the relationship between Huck and Jim, a runaway slave. Twain's portrayal of the cruelty and injustice faced by Jim serves as a commentary on the institution of slavery and the societal attitudes of the time..."
+            },
+            {
+                "name": "Morality",
+                "content": "The novel examines the theme of morality, as Huck grapples with the moral implications of helping Jim escape from slavery. His decision to aid Jim, despite the societal norms and expectations, serves as a commentary on the importance of personal conscience and empathy..."
+            },
+            {
+                "name": "Adventure",
+                "content": "The novel is an epic adventure that follows Huck and Jim as they travel down the Mississippi River, encountering various characters and challenges along the way. Twain's portrayal of the American frontier serves as a commentary on the country's history, culture, and values..."
+            }
+        ],
+        "content": "Mark Twain’s *The Adventures of Huckleberry Finn* is a classic American novel that follows the story of Huck Finn, a young boy who runs away from home and embarks on a journey down the Mississippi River with a runaway slave named Jim. The novel is renowned for its vivid portrayal of life in the pre-Civil War South, its exploration of complex social issues, and its memorable characters..."
+    },
+    {
+        "id": 9,
+        "name": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Beauty",
+                "content": "The novel explores the theme of beauty, particularly through the character of Dorian Gray, who sells his soul for eternal youth and beauty. Wilde's portrayal of Dorian's obsessive pursuit of beauty and hedonism serves as a commentary on the societal values of the time..."
+            },
+            {
+                "name": "Morality",
+                "content": "The novel examines the theme of morality, as Dorian's actions become increasingly corrupt and depraved. His descent into madness and despair serves as a commentary on the dangers of unchecked ego and the importance of conscience and self-control..."
+            },
+            {
+                "name": "Art",
+                "content": "The novel explores the theme of art, particularly through the character of Basil Hallward, who becomes infatuated with Dorian's beauty. Wilde's portrayal of the relationship between art and reality serves as a commentary on the role of the artist and the nature of creativity..."
+            }
+        ],
+        "content": "Oscar Wilde’s *The Picture of Dorian Gray* is a philosophical novel that explores the themes of beauty, morality, and the human condition. The novel is celebrated for its witty dialogue, complex characters, and its commentary on the societal values and artistic movements of the time..."
+    },
+    {
+        "id": 10,
+        "name": "Wuthering Heights",
+        "author": "Emily Bronte",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Love",
+                "content": "The novel explores the theme of love, particularly through the tumultuous and often destructive relationship between Catherine and Heathcliff. Bronte's portrayal of their all-consuming passion serves as a commentary on the power of love to both unite and destroy..."
+            },
+            {
+                "name": "Revenge",
+                "content": "The novel examines the theme of revenge, as Heathcliff seeks to punish those who have wronged him. His actions, however, ultimately lead to his own downfall, serving as a commentary on the destructive nature of revenge and the importance of forgiveness..."
+            },
+            {
+                "name": "Nature",
+                "content": "The novel explores the theme of nature, particularly through the setting of the Yorkshire moors. Bronte's portrayal of the vast, wild, and often unforgiving landscape serves as a commentary on the relationship between humans and the natural world..."
+            }
+        ],
+        "content": "Emily Bronte’s *Wuthering Heights* is a classic romance novel that explores the themes of love, revenge, and the human condition. The novel is celebrated for its vivid portrayal of the Yorkshire moors, its complex characters, and its exploration of the complexities of human relationships..."
+    },
+    {
+        "id": 11,
+        "name": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Betrayal",
+                "content": "The novel explores the theme of betrayal, particularly through the character of Edmond Dantès, who is wrongly accused and imprisoned. Dumas's portrayal of Dantès's subsequent quest for revenge serves as a commentary on the destructive nature of betrayal and the importance of justice..."
+            },
+            {
+                "name": "Redemption",
+                "content": "The novel examines the theme of redemption, as Dantès seeks to clear his name and punish those who have wronged him. His journey, however, ultimately leads to a deeper understanding of the importance of forgiveness and the need for personal redemption..."
+            },
+            {
+                "name": "Love",
+                "content": "The novel explores the theme of love, particularly through the relationships between Dantès and his beloved Mercédès, as well as the complex and often doomed love affairs of the other characters. Dumas's portrayal of the power of love to both unite and destroy serves as a commentary on the human condition..."
+            }
+        ],
+        "content": "Alexandre Dumas’s *The Count of Monte Cristo* is a classic adventure novel that explores the themes of betrayal, redemption, and love. The novel is celebrated for its complex characters, its vivid portrayal of 19th-century France, and its exploration of the complexities of human relationships..."
+    },
+    {
+        "id": 12,
+        "name": "Moby-Dick",
+        "author": "Herman Melville",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Obsession",
+                "content": "The novel explores the theme of obsession, particularly through the character of Captain Ahab, who becomes consumed by his quest to hunt down the white whale Moby-Dick. Melville's portrayal of Ahab's monomaniacal pursuit serves as a commentary on the dangers of unchecked ambition and the importance of balance and moderation..."
+            },
+            {
+                "name": "Man vs. Nature",
+                "content": "The novel examines the theme of man vs. nature, as the crew of the Pequod battles against the ferocious and elusive Moby-Dick. Melville's portrayal of the struggle between humans and the natural world serves as a commentary on the relationship between humans and the environment..."
+            },
+            {
+                "name": "Friendship",
+                "content": "The novel explores the theme of friendship, particularly through the relationships between Ishmael and Queequeg, as well as the bonds between the crew members of the Pequod. Melville's portrayal of the power of friendship to both unite and divide serves as a commentary on the importance of human connection and loyalty..."
+            }
+        ],
+        "content": "Herman Melville’s *Moby-Dick* is a classic adventure novel that explores the themes of obsession, man vs. nature, and friendship. The novel is celebrated for its poetic prose, its complex characters, and its exploration of the complexities of human relationships and the natural world..."
+    },
+    {
+        "id": 13,
+        "name": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
+        "topics": [
+            {
+                "name": "Guilt",
+                "content": "The novel explores the theme of guilt..."
+            },
+            {
+                "name": "Shame",
+                "content": "The novel examines the theme of shame..."
+            },
+            {
+                "name": "Love",
+                "content": "The novel explores the theme of love..."
+            }
+        ],
+        "content": "Nathaniel Hawthorne’s *The Scarlet Letter* is a classic novel..."
+    }
 ]

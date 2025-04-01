@@ -3,7 +3,7 @@
     "id": 1,
     "name": "1984",
     "author": "George Orwell",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/c/c3/1984first.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Dystopia",
@@ -24,7 +24,7 @@
     "id": 2,
     "name": "To Kill a Mockingbird",
     "author": "Harper Lee",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Racial Injustice",
@@ -45,7 +45,7 @@
     "id": 3,
     "name": "The Hobbit",
     "author": "J.R.R. Tolkien",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Adventure",
@@ -66,7 +66,7 @@
     "id": 4,
     "name": "The Lord of the Rings",
     "author": "J.R.R. Tolkien",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lord_of_the_Rings_cover.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Friendship",
@@ -87,7 +87,7 @@
     "id": 5,
     "name": "Pride and Prejudice",
     "author": "Jane Austen",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/6/60/Pride_and_Prejudice.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Love",
@@ -108,7 +108,7 @@
     "id": 6,
     "name": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/4/46/The_Great_Gatsby_cover.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "The American Dream",
@@ -129,7 +129,7 @@
     "id": 7,
     "name": "The Catcher in the Rye",
     "author": "J.D. Salinger",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Catcher_in_the_Rye.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Adolescence",
@@ -150,7 +150,7 @@
     "id": 8,
     "name": "The Adventures of Huckleberry Finn",
     "author": "Mark Twain",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/5/56/The_Adventures_of_Huckleberry_Finn.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Racism",
@@ -171,7 +171,7 @@
     "id": 9,
     "name": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Picture_of_Dorian_Gray.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Beauty",
@@ -192,7 +192,7 @@
     "id": 10,
     "name": "Wuthering Heights",
     "author": "Emily Bronte",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wuthering_Heights.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Love",
@@ -213,7 +213,7 @@
     "id": 11,
     "name": "The Count of Monte Cristo",
     "author": "Alexandre Dumas",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_Count_of_Monte_Cristo.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Betrayal",
@@ -234,7 +234,7 @@
     "id": 12,
     "name": "Moby-Dick",
     "author": "Herman Melville",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Moby-Dick.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Obsession",
@@ -255,7 +255,7 @@
     "id": 13,
     "name": "The Scarlet Letter",
     "author": "Nathaniel Hawthorne",
-    "book_cover": "https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Scarlet_Letter.jpg",
+    "book_cover": "https://raw.githubusercontent.com/Yammie24/bookapi/refs/heads/main/atom.png",
     "topics": [
       {
         "name": "Guilt",
